@@ -2,7 +2,11 @@
 
 A deep learning project that detects and classifies human facial expressions into 7 emotion categories in both static images and real-time webcam feeds, using a Convolutional Neural Network trained on the FER-2013 dataset.
 
----
+<p align="center">
+  <img src="assets/PrivateTest_1109992.jpg" width="30%"/>
+  <img src="assets/PrivateTest_6439033.jpg" width="30%"/>
+  <img src="assets/PrivateTest_807646.jpg" width="30%"/>
+</p>
 
 ### Features
 
